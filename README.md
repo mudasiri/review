@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# My Portfolio Website
+# Peer To Peer Review Project Landing Page
 
-> This is a website i am building to show case my portfolio. From time to time i will be making changes and updating it.
+> This is a website i am building to show case my product page. From time to time i will be making changes and updating it.
 
 
 ## Built With
